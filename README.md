@@ -1,17 +1,27 @@
 # react-movie-application prerequest 
 
-## React
-## Node 
+#React
+#Node 
 
-#Clone The Project 
+##Clone The Project 
 
-## git clone https://github.com/Kasunjith-Bimal/React-moviee-application.git
+# git clone https://github.com/Kasunjith-Bimal/React-moviee-application.git
 
-#install packages
+##install dependency in React Application 
 
-## cd React-moviee-application
-## npm install
+# cd React-moviee-application
+# npm install
 
-#Run React Application 
+##install dependency in Node API
 
-## npm start 
+# cd BackendAPI
+# npm install
+
+## Run Node API 
+
+# node index 
+
+##Run React Application 
+
+# cd ..
+# npm start 
