@@ -12,10 +12,10 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 npm install -g create-react-app
 
 
-#clone The Project 
+##clone The Project 
 
 
-# git clone https://github.com/Kasunjith-Bimal/React-moviee-application.git
+ $ git clone https://github.com/Kasunjith-Bimal/React-moviee-application.git
 
 #install dependency in React Application 
 
