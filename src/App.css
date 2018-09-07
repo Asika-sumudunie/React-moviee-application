@@ -30,3 +30,75 @@
 
   margin-top: 5%
 }
+
+.bigBox{
+  
+  transform: 1px;
+  border-radius: 5px;
+  background-color: white;
+  color : black;
+ 
+}
+.bigBox2{
+  transform: 1px;
+
+  color : black;
+  background-color: white;
+  width: 617px;
+ 
+
+}
+.box{
+  border: 1px solid black;
+ 
+}
+
+.text1{
+  font-style: bold;
+  margin: 5px;
+font-size: 10px;
+}
+
+.text2{
+  margin: 5px;
+  font-size: 10px;
+
+}
+
+html, body {
+  margin: 0;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 1.2em;
+}
+
+#page-numbers {
+  list-style: none;
+  display: flex;
+}
+
+#page-numbers > li {
+  margin-right: 0.3em;
+  color: white;
+  user-select: none;
+  cursor: pointer;
+
+  margin: 5px;
+}
+
+.banner{
+
+  background-color: black;
+  color: white;
+  height: 40px;
+  margin-bottom: 5px;
+}
+
+.pic{
+
+border: 5px solid black;
+}
+
+.page{
+  background-color: black;
+  color: white;
+}
