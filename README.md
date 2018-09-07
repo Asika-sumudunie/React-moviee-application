@@ -12,26 +12,26 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 npm install -g create-react-app
 
 
-##clone The Project 
+## clone The Project 
+git clone https://github.com/Kasunjith-Bimal/React-moviee-application.git
 
+## install dependency in React Application 
 
- $ git clone https://github.com/Kasunjith-Bimal/React-moviee-application.git
+cd React-moviee-application
+npm install
 
-#install dependency in React Application 
+## install dependency in Node API
 
-#cd React-moviee-application
-#npm install
+cd BackendAPI
+npm install
 
-# install dependency in Node API
+## Run Node API 
 
-#cd BackendAPI
-#npm install
+node index 
 
-# Run Node API 
+## Run React Application 
 
-#node index 
+cd ..
+npm start 
 
-#Run React Application 
-
-# cd ..
-# npm start 
+## we can show localhost:3000
