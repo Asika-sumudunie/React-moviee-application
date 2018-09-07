@@ -38,7 +38,7 @@ $ node index
 
 ## Run React Application 
 ```
-$ cd ..
+$ cd React-moviee-application
 ```
 ```
 $ npm start 
