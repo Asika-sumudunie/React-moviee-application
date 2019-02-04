@@ -48,4 +48,4 @@ $ npm start
 ```
 ## we can show localhost:3000
 
-![In a single picture](https://github.com/Kasunjith-Bimal/React-moviee-application/blob/master/Images/Final.png)
+![In a single picture](https://github.com/Kasunjith-Bimal/React-moviee-application/blob/master/Images/SwaggerUI.jpg)
